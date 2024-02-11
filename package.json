@@ -1,0 +1,19 @@
+{
+	"name": "module-12-challenge",
+	"version": "1.0.0",
+	"description": "Web Development Skills Bootcamp - Module 12 Challenge",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"inquirer": "^8.1.2"
+	},
+	"devDependencies": {
+		"jest": "^27.4.7"
+	}
+}
